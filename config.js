@@ -16,12 +16,12 @@
     "type": "phonetic"
   },
   "storage": {
-  "path": "./data",
-  "type": "file"
+    "path": "./data",
+    "type": "file"
   },
   "documents": {
     "about": "./about.md"
   },
-"user":"voxeolabs",
+"user": "voxeolabs",
 "pass": "voxeolabs"
 }
