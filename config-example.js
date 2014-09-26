@@ -22,6 +22,6 @@
   "documents": {
     "about": "./about.md"
   },
-  "user": "foo",
-  "pass": "bar"
+  "user": "----",
+  "pass": "----"
 }
