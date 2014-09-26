@@ -38,7 +38,8 @@ right now.
 
 ## Duration
 
-Pastes will stay for 30 days from their last view.
+Pastes will stay for 30 days from their last view.  They may be removed earlier
+and without notice.
 
 ## Privacy
 
@@ -49,7 +50,7 @@ pastes.
 
 ## Open Source
 
-Haste can easily be installed behind your network, and its all open source!
+Haste can easily be installed behind your network, and it's all open source!
 
 * [haste-client](https://github.com/seejohnrun/haste-client)
 * [haste-server](https://github.com/seejohnrun/haste-server)
